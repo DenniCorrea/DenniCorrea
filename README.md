@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, sou o Denni 👋
 
-<!--
-**DenniCorrea/DenniCorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Senac)
+💡 Desenvolvedor em formação com foco em back-end e automação de processos
+🏗️ +10 anos de experiência em gestão e operações - agora aplicando essa visão a sistemas
+📍 São José do Rio Preto, SP — Brasil
 
-Here are some ideas to get you started:
+## O que estou estudando agora
+- Lógica de programação e algoritmos
+- Banco de dados e SQL
+- Trilhas práticas na DIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Em breve aqui
+📂 Projetos da graduação e exercícios práticos
+
+📫 Me encontre no [LinkedIn](https://linkedin.com/in/dennicorrea)
