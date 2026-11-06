@@ -26,6 +26,6 @@
 - ✅ Mundo 2 — Condições aninhadas, laços `for`/`while` — concluído
 - 🔄 Mundo 3 — Tuplas, listas, dicionários, funções, módulos, tratamento de erros — em andamento
 
-*(Em andamento — pretendo subir o código dessas trilhas aqui assim que finalizar os blocos pendentes.)*
+📂 Código de ambas as trilhas: [estudos-python](https://github.com/DenniCorrea/estudos-python)
 
 - Me encontre no [LinkedIn](https://linkedin.com/in/dennicorrea)
