@@ -1,31 +1,28 @@
 # Olá, sou o Denni
 
-- Desenvolvedor em formação | ADS (Senac) | Foco em back-end, PL/SQL e automação de processos
-- +10 anos de trajetória empreendedora no setor elétrico — estruturei operações, implantei ERPs e defini regras de negócio do zero
-- Hoje aplico essa vivência a sistemas: unir lógica de programação com visão de negócio real
-- São José do Rio Preto, SP — Brasil
+**Gestão de processos, regras de negócio e implantação de sistemas** | Cursando Análise e Desenvolvimento de Sistemas (Senac)
 
-## O que estou estudando agora
-- Lógica de programação e Python — laços, listas, dicionários, funções
-- SQL / Oracle PL-SQL básico
-- IA aplicada ao desenvolvimento (Imersão Claude — DAXUS)
-- Certificações Cisco Networking Academy: Python Essentials 1, Computer Hardware Basics
+- Mais de 10 anos de gestão de operações nos setores elétrico e de construção civil: estruturei operações do zero, implantei e parametrizei ERP, defini regras de negócio e treinei equipes
+- Hoje levo essa vivência para sistemas: levantamento de requisitos, documentação de processos e tecnologia como ferramenta de gestão
+- São José do Rio Preto, SP, Brasil
 
-## Progresso nos estudos
+## Projetos em destaque
 
-**Trilha Senac — Dominando Algoritmos com Python** (parte da graduação em ADS)
-37 de 40 exercícios resolvidos, em 4 blocos de dificuldade crescente — do básico a problemas aplicados a regras de negócio:
-- 🏦 Sistema bancário com menu (consulta, depósito, saque, tratamento de saldo insuficiente)
-- 📊 Análise de faturamento mensal (identifica tendência: crescente, queda, constante)
-- 💊 Comparador de preços entre fornecedores
-- 📋 Análise de notas de turma (aprovados/reprovados)
-- 🎮 Jogo da Forca
+**[vc-personal](https://github.com/DenniCorrea/vc-personal)** — plataforma web de mentoria para personal trainers, em produção para um cliente real do setor fitness.
+Levantei requisitos e regras de negócio com o cliente, priorizei a frente de maior ticket (mentoria B2B) e pausei a área do aluno (B2C) por decisão de negócio, de forma reversível. Inclui trilha de conteúdo, agenda, comunidade, planos e controles de LGPD para dado de saúde. Desenvolvido com apoio de IA (Claude Code); o README documenta as decisões, o processo e uma auditoria de segurança.
 
-**Curso em Vídeo — Python 3 (Gustavo Guanabara)**
-- ✅ Mundo 1 — Fundamentos (variáveis, tipos primitivos, operadores, módulos, manipulação de texto, condições) — concluído
-- ✅ Mundo 2 — Condições aninhadas, laços `for`/`while` — concluído
-- 🔄 Mundo 3 — Tuplas, listas, dicionários, funções, módulos, tratamento de erros — em andamento
+**[case-gestao-de-processos](https://github.com/DenniCorrea/case-gestao-de-processos)** — como estou estruturando um setor produtivo do zero (kits elétricos e quadros de distribuição e automação), usando o processo maduro de um setor como referência. Diagnóstico, estratégia de transição em paralelo e decisões documentadas etapa por etapa. O método vem da minha experiência em processos e regras de negócio; uso IA para organizar tarefas e ganhar tempo. Sem dados comerciais; aqui está o método.
 
-📂 Código de ambas as trilhas: [estudos-python](https://github.com/DenniCorrea/estudos-python)
+## Estudos
 
-- Me encontre no [LinkedIn](https://linkedin.com/in/dennicorrea)
+**[estudos-python](https://github.com/DenniCorrea/estudos-python)** — exercícios de lógica em Python.
+- Trilha Senac "Dominando Algoritmos com Python" (graduação em ADS): 37 de 40 exercícios, incluindo sistema bancário com menu, análise de faturamento, comparador de preços e jogo da forca
+- Curso em Vídeo, Python 3 (Gustavo Guanabara): Mundos 1 e 2 concluídos; Mundo 3 em andamento
+
+**Agora:** Python, SQL e Oracle PL-SQL (básico), Tasy EMR módulo OPS, e IA aplicada ao trabalho (Imersão Claude, DAXUS).
+
+**Certificações:** Python Essentials 1 e Computer Hardware Basics, Cisco Networking Academy.
+
+---
+
+Me encontre no [LinkedIn](https://linkedin.com/in/dennicorrea)
