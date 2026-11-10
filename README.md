@@ -19,7 +19,7 @@ Levantei requisitos e regras de negócio com o cliente, priorizei a frente de ma
 - Trilha Senac "Dominando Algoritmos com Python" (graduação em ADS): 37 de 40 exercícios, incluindo sistema bancário com menu, análise de faturamento, comparador de preços e jogo da forca
 - Curso em Vídeo, Python 3 (Gustavo Guanabara): Mundos 1 e 2 concluídos; Mundo 3 em andamento
 
-**Agora:** Python, SQL e Oracle PL-SQL (básico), Tasy EMR módulo OPS, e IA aplicada ao trabalho (Imersão Claude, DAXUS).
+**Agora:** Python, SQL e Oracle PL-SQL (básico), Tasy EMR módulo OPS, e IA aplicada ao trabalho (Claude).
 
 **Certificações:** Python Essentials 1 e Computer Hardware Basics, Cisco Networking Academy.
 
